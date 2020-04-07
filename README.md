@@ -7,8 +7,7 @@
 <img src="fig_front.png" width="900" title="Figure_1" />
 </p>
 
-This is the repository that contains the Mathematica code as well as useful comments that reproduce the figures of the a redshift 
-tomography of the pantheon dataset that will be uploaded in arxiv in a few days.
+This is the repository that contains the Mathematica code as well as useful comments that reproduce the figures of [arxiv:2004.02155](https://arxiv.org/pdf/2004.02155.pdf)
 
 ## Abstract 
 A redshift tomography of the Pantheon type Ia supernovae (SnIa) data focusing on the best fit value of the absolute magnitude 
