@@ -51,6 +51,14 @@ away from the GR value of <a href="https://www.codecogs.com/eqnedit.php?latex=$g
 This weak hint for weaker gravity at low <a href="https://www.codecogs.com/eqnedit.php?latex=$z$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$z$" title="$z$" /></a> 
 coming from SnIa is consistent with similar evidence from growth and weak lensing cosmological data.
 
+## Citing the paper 
+If you use any of the above codes or the figures in a published work please cite the following paper:
+<br>*Hints of a Local Matter Underdensity or Modified Gravity in the Low z Pantheon data.*
+<br>Lavrentios Kazantzidis and Leandros Perivolaropoulos, [arxiv:2004.02155](https://arxiv.org/pdf/2004.02155.pdf)
+
+Any further questions/comments are welcome
+
+
 ## Authors List
 Lavrentios Kazantzidis - <l.kazantzidis@uoi.gr>
 <br>Leandros Perivolaropoulos - <leandros@uoi.gr>
