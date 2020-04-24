@@ -29,8 +29,7 @@ evolving absolute luminosity <a href="https://www.codecogs.com/eqnedit.php?latex
 <img src="https://latex.codecogs.com/gif.latex?$M$" title="$M$" /></a> of low <a href="https://www.codecogs.com/eqnedit.php?latex=$z$" target="_blank">
 <img src="https://latex.codecogs.com/gif.latex?$z$" title="$z$" /></a> SnIa. The local void scenario would predict a degree of 
 anisotropy in the best fit value of <a href="https://www.codecogs.com/eqnedit.php?latex=$H_0$" target="_blank">
-<img src="https://latex.codecogs.com/gif.latex?$H_0$" title="$H_0$" /></a> (and/or <a href="https://www.codecogs.com/eqnedit.php?latex=$M$" target="_blank">
-<img src="https://latex.codecogs.com/gif.latex?$M$" title="$M$" /></a>) since it is unlikely that we are located at the center of a 
+<img src="https://latex.codecogs.com/gif.latex?$H_0$" title="$H_0$" /></a> since it is unlikely that we are located at the center of a 
 local spherical underdensity. Using a Hemisphere Comparison method, we find an anisotropy level that is consistent with simulated 
 isotropic Pantheon-like datasets. We show however, that the anisotropic sky distribution of the Pantheon SnIa data induces a preferred 
 range of directions even in simulated Pantheon data obtained in the context of isotropic <a href="https://www.codecogs.com/eqnedit.php?latex=$\Lambda$&space;CDM" target="_blank">
