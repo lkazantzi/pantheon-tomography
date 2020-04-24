@@ -1,5 +1,4 @@
 # Hints of a Local Matter Underdensity or Modified Gravity in the Low z Pantheon data
-
 [![Travis](https://img.shields.io/badge/language-Mathematica-green.svg)]()
 ![Total visitors](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=lkazantzi.pantheon-tomography)
 
